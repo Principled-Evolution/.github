@@ -18,8 +18,8 @@ We develop tools and platforms that bring verifiable compliance to AI workflows 
 
 | Project | Description |
 |--------|-------------|
-| [`gopal`](https://github.com/principledevolution/gopal) | Open Policy Agent Library for AI workflows |
-| [`aicertify`](https://github.com/principledevolution/aicertify) | Automated policy evaluation and compliance checks for AI systems |
+| [`gopal`](https://github.com/principled-evolution/gopal) | Open Policy Agent Library for AI workflows |
+| [`aicertify`](https://github.com/principled-evolution/aicertify) | Automated policy evaluation and compliance checks for AI systems |
 
 ---
 
